@@ -1,35 +1,29 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
-
-# baseurl と url を GitHub Pages のリポジトリに合わせる。 
-# baseurl: "/tech-mba"
-# url: "https://ryo-kudo.github.io"
-
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+disqus: ryok
+google_analytics: ryok
+title: tech-mba 学び書き殴りブログ
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: ryok
 
-description: Stylish Jekyll Theme
+description: MBA取得中のIT技術者（インフラ系, Python, DNN等）が学んだ内容を体系的にまとめるweb。
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: ryok
+  email: ry1537+tm@gmail.com
+  github: ryo-kudo
+  twitter: kepler_31
+  # pinterest: none
+  # linkedin: none
+  bio: MBA(US), IT engineer
+  # email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
 categories_path: categories.html
