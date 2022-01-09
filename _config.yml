@@ -22,12 +22,12 @@ description: Stylish Jekyll Theme
 author:
   name: ryok
   email: ry1537@gmail.com
-  github: -
-  twitter: -
-  pinterest: -
-  linkedin: -
+  github: ryok
+  twitter: ryok
+  pinterest: ryok
+  linkedin: ryok
   bio: Your stylish, minimalist theme!
-  email_md5: -
+  # email_md5: 
 
 rss_path: feed.xml
 categories_path: categories.html
