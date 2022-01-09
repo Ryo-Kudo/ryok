@@ -1,5 +1,7 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
+remote_theme: dbtek/dbyll
+
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
@@ -18,10 +20,10 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
+  name: ryok
+  email: ry1537@gmail.com
+  github: -
+  twitter: -
   pinterest: asd123
   linkedin: asd123
   bio: Your stylish, minimalist theme!
@@ -38,3 +40,6 @@ BASE_PATH:
 
 plugins:
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll-remote-theme # added
+  - github-pages # added
