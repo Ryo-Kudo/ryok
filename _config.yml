@@ -7,9 +7,9 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+disqus: ryok tech-mba
+google_analytics: ryok tech-mba
+title: ryok tech-mba
 
 defaults:
   -
@@ -24,10 +24,10 @@ author:
   email: ry1537@gmail.com
   github: -
   twitter: -
-  pinterest: asd123
-  linkedin: asd123
+  pinterest: -
+  linkedin: -
   bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  email_md5: -
 
 rss_path: feed.xml
 categories_path: categories.html
