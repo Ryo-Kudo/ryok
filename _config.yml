@@ -23,7 +23,7 @@ author:
   # pinterest: none
   # linkedin: none
   bio: MBA(US), IT engineer
-  # email_md5: 726351295ec82e145928582f595aa3aa
+  email_md5: bc42416dd5bc7ac4c88b90913f077365
 
 rss_path: feed.xml
 categories_path: categories.html
