@@ -1,72 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>dbyll</title>
-		<description>Stylish Jekyll Theme</description>
-		<link>/</link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<title>Tech×MBA 学び書き殴りブログ</title>
+		<description>MBA取得中のIT技術者（インフラ系, Python, DNN等）が学んだ内容を体系的にまとめるweb。</description>
+		<link>/tech-mba/</link>
+		<atom:link href="/tech-mba/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Hello World!</title>
-				<description>&lt;p&gt;&lt;strong&gt;dbyll&lt;/strong&gt; is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.&lt;/p&gt;
+				<title>チームで働くことの重要性</title>
+				<description>&lt;h2 id=&quot;group-ではなくteam-を目指す&quot;&gt;Group ではなく、Team を目指す&lt;/h2&gt;
+&lt;p&gt;「複数人が集まって仕事をすれば、それはチームだ。」という人が多いかもしれない。しかし、それだけでは本質的な意味ではチームとは言えない。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;dbyll&lt;/strong&gt; is brought to you by &lt;strong&gt;&lt;a href=&quot;http://ismaildemirbilek.com&quot;&gt;dbtek&lt;/a&gt;&lt;/strong&gt;. Open sourced under &lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/tech-mba/assets/media/teamwork_01.png&quot; alt=&quot;TeamとGroup&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;dbyll-is-on-github&quot;&gt;dbyll is on GitHub&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Groupは単に共通の目的のために複数人で取り組んでいるだけ。Groupの主目的は、あくまで、情報共有である。
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;過去に私が所属した組織の中にも、今思えば「あれはTeamではなく、”Group”だったなあ…」と思うグループがある…。&lt;/em&gt;&lt;br /&gt;
+  &lt;em&gt;そういう”Group”のリーダーやメンバーは組織行動学を知らない。まずは知って、意識することが大切である。&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Team にはスキル補完やシナジーがある。Teamを目指さなければならない。Teamの主目的は、成果の最大化である。
+    &lt;ul&gt;
+      &lt;li&gt;リモートワークの時代では、シナジーを生み出すことがさらに難しくなっている。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://github.com/dbtek/dbyll&quot;&gt;Grab your copy now!&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;teamでいい成果を出すためには初期の混乱や衝突が必須である&quot;&gt;Teamでいい成果を出すためには、初期の混乱や衝突が必須である&lt;/h2&gt;
+&lt;p&gt;最初から成果を最大化できるチームはない。&lt;/p&gt;
+
+&lt;h3 id=&quot;tuchmanのfive-stage-model&quot;&gt;TuchmanのFive Stage Model&lt;/h3&gt;
+&lt;p&gt;チームビルディングの過程をモデル化したものである。&lt;/p&gt;
+
+&lt;p&gt;多様性のあるメンバーが集まると…&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Forming Stage:
+    &lt;ul&gt;
+      &lt;li&gt;最初は混乱が生じる。各メンバーがチームの目的や役割の議論に集中する。&lt;/li&gt;
+      &lt;li&gt;リーダーは主導権を握り、明確な期待と一貫した指示を与えるべきである。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Storming Stage:
+    &lt;ul&gt;
+      &lt;li&gt;衝突と確認を繰り返す。&lt;/li&gt;
+      &lt;li&gt;リーダーは、問題を解決し、正常化する。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Norming Stage:
+    &lt;ul&gt;
+      &lt;li&gt;このチームでのルールができる。和解、安心感、不安感の低下、メンバーの参加と支持、結束力の向上。&lt;/li&gt;
+      &lt;li&gt;リーダーには、個人やグループの努力を認めること、フィードバックなどの学習機会を与えることが求められる。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Performing Stage:
+    &lt;ul&gt;
+      &lt;li&gt;チームとして良い成果を出す。&lt;/li&gt;
+      &lt;li&gt;リーダーの介入は最小限で良い。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Adjurning:
+    &lt;ul&gt;
+      &lt;li&gt;散会。チームとしてのタスクが終了する。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/tech-mba/assets/media/teamwork_02.png&quot; alt=&quot;TuchmanのFive stage model&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;teamのパフォーマンス向上は時間に対して線形ではない&quot;&gt;Teamのパフォーマンス向上は、時間に対して線形ではない&lt;/h2&gt;
+&lt;p&gt;チーム結成から締め切りまで時間のうち、半分程度を過ぎると、やっとチームでの効率向上を実感できるようになる。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/tech-mba/assets/media/teamwork_04.png&quot; alt=&quot;Punctuated Equilibrium Model, Gersick(1988)&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;あくまでモデルだが、チーム結成時にうまくいかないのは当たり前だと知っていることが重要だと感じた。&lt;br /&gt;
+「バネが高く跳ぶには、縮むことが必要」というのと近い。これは比喩だが、実験的にも正しいことをGersickは示している。&lt;/p&gt;
+
+&lt;p&gt;Source: 以下の内容をもとに作成した。&lt;br /&gt;
+Gersick, C. J. (1988). Time and transition in work teams: Toward a new model of group development. Academy of Management journal, 31(1), 9-41.&lt;/p&gt;
 </description>
-				<pubDate>Fri, 15 Nov 2013 00:00:00 -0500</pubDate>
-				<link>/general/setup/demo/2013/11/15/hello-world.html</link>
-				<guid isPermaLink="true">/general/setup/demo/2013/11/15/hello-world.html</guid>
+				<pubDate>Mon, 10 Jan 2022 00:00:00 -0500</pubDate>
+				<link>/tech-mba/mba/2022/01/10/Teamwork.html</link>
+				<guid isPermaLink="true">/tech-mba/mba/2022/01/10/Teamwork.html</guid>
 			</item>
 		
 			<item>
-				<title>Configuration</title>
-				<description>&lt;p&gt;In your config file change these settings&lt;/p&gt;
+				<title>組織行動学</title>
+				<description>&lt;h2 id=&quot;組織行動学とは&quot;&gt;組織行動学とは&lt;/h2&gt;
+&lt;p&gt;組織の有効性向上を目的として、個人、集団、構造が組織内の行動に与える影響を研究する学問&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;dbyll&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;  
-  &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;yourname&lt;/span&gt;  
-  &lt;span class=&quot;na&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;youremail&lt;/span&gt;  
-  &lt;span class=&quot;na&quot;&gt;github&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;asd123&lt;/span&gt;  
-  &lt;span class=&quot;na&quot;&gt;twitter&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;asd123&lt;/span&gt;  
-  &lt;span class=&quot;na&quot;&gt;pinterest&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;asd123&lt;/span&gt;  
-  &lt;span class=&quot;na&quot;&gt;linkedin&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;asd123&lt;/span&gt;  
-  &lt;span class=&quot;na&quot;&gt;resume&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;asd123&lt;/span&gt;  
-  &lt;span class=&quot;na&quot;&gt;bio&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Your stylish,  minimalist theme!&lt;/span&gt;  
-  &lt;span class=&quot;na&quot;&gt;email_md5&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;md5ofemail&lt;/span&gt;  &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;組織行動学を学ぶ理由&quot;&gt;組織行動学を学ぶ理由&lt;/h3&gt;
+&lt;p&gt;個人、グループ、組織の行動のクセとその影響を学ぶことで、それらを利用・回避し、効率的な組織を運営できるスキルを身につける。
+結果として、効果的なリーダーとチームメンバーの両方になることができる。&lt;/p&gt;
+
+&lt;hr /&gt;
 </description>
-				<pubDate>Fri, 15 Nov 2013 00:00:00 -0500</pubDate>
-				<link>/general/setup/demo/2013/11/15/configuration.html</link>
-				<guid isPermaLink="true">/general/setup/demo/2013/11/15/configuration.html</guid>
+				<pubDate>Mon, 10 Jan 2022 00:00:00 -0500</pubDate>
+				<link>/tech-mba/mba/2022/01/10/OB.html</link>
+				<guid isPermaLink="true">/tech-mba/mba/2022/01/10/OB.html</guid>
 			</item>
 		
 			<item>
-				<title>Sample</title>
-				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+				<title>はじめに</title>
+				<description>&lt;h2 id=&quot;サイト概要&quot;&gt;サイト概要&lt;/h2&gt;
+&lt;p&gt;私は、新しいことを学ぶこと、学ぶために色んな環境に飛び込むことがとても好きなアラサーです。&lt;br /&gt;
+折角なら、学ぶだけでなく、いつでも他者に伝えられるように知識を整理したいと思い、本サイトを立ち上げました。&lt;br /&gt;
+主に、&lt;strong&gt;MBAの授業内容や考察について&lt;/strong&gt;まとめる予定です。&lt;br /&gt;
+（元々はITエンジニアなので、技術的な内容を上げる可能性もあります。）&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h2 id=&quot;経歴&quot;&gt;経歴&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;IT系企業に技術系総合職として入社&lt;/li&gt;
+  &lt;li&gt;SEや人事としてn年間勤務 (n &amp;lt; 10)
+    &lt;ul&gt;
+      &lt;li&gt;SE前半：ネットワークエンジニア技術を軸に、PMとしてユーザ課題の解決に従事&lt;/li&gt;
+      &lt;li&gt;SE後期：AI/DNN用PaaS開発に従事&lt;br /&gt;
+  Linux, Docker, GPU, Python, 各種DNNフレームワーク&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;現在、MBA取得を目指し、米国のビジネススクールで勉強中&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'foo'&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;狙いとポイント&quot;&gt;狙いとポイント&lt;/h2&gt;
+&lt;p&gt;後輩への共有を主目的としており、以下を遵守する予定です。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;要点を絞る／流れをわかりやすくする。&lt;/li&gt;
+  &lt;li&gt;結論ベースで書く。各記事内の各項目の結論は、H2タグで記載する。  H2タグ配下には、なぜそうなるのかの理由を記載する。&lt;br /&gt;
+⇒ すでに理解している場合、飛ばして次の見出しを読んでも良い。&lt;/li&gt;
+  &lt;li&gt;文献を明記し、各自が深堀りできるようにする。&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;p&gt;よろしくお願いいたします。&lt;/p&gt;
 </description>
-				<pubDate>Thu, 14 Nov 2013 00:00:00 -0500</pubDate>
-				<link>/general/demo/2013/11/14/sample.html</link>
-				<guid isPermaLink="true">/general/demo/2013/11/14/sample.html</guid>
-			</item>
-		
-			<item>
-				<title>Sample 2</title>
-				<description>&lt;p&gt;Lorem ipsum dolor sit amet,  consectetur adipisicing elit,  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,  sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet,  consectetur adipisicing elit,  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,  sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 14 Nov 2013 00:00:00 -0500</pubDate>
-				<link>/general/demo/sample/2013/11/14/sample-2.html</link>
-				<guid isPermaLink="true">/general/demo/sample/2013/11/14/sample-2.html</guid>
+				<pubDate>Sun, 09 Jan 2022 00:00:00 -0500</pubDate>
+				<link>/tech-mba/general/2022/01/09/First-commit.html</link>
+				<guid isPermaLink="true">/tech-mba/general/2022/01/09/First-commit.html</guid>
 			</item>
 		
 	</channel>
