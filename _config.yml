@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: ryok
+      title: Tech 'n' MBA
 
 description: MBA取得中のIT技術者（インフラ系, Python, DNN等）が学んだ内容を体系的にまとめるweb。
 author:
