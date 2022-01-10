@@ -5,14 +5,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: ryok
 google_analytics: ryok
-title: tech-mba 学び書き殴りブログ
+title: tech×mba 学び書き殴りブログ
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Tech 'n' MBA
+      title: Tech×MBA
 
 description: MBA取得中のIT技術者（インフラ系, Python, DNN等）が学んだ内容を体系的にまとめるweb。
 author:
